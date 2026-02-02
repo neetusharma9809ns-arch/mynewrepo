@@ -20,6 +20,7 @@ public class BaseTest {
 		
 	
 		cr.loadProp();
+		//adding
 		
 if(cr.getBrowser().equalsIgnoreCase("chrome")){
 	driver = new ChromeDriver();
