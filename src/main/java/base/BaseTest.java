@@ -20,7 +20,7 @@ public class BaseTest {
 		
 	
 		cr.loadProp();
-		//adding
+		//adding github
 		
 if(cr.getBrowser().equalsIgnoreCase("chrome")){
 	driver = new ChromeDriver();
